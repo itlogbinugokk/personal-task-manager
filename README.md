@@ -1,8 +1,8 @@
 # personal-task-manager
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0f868450-ca6b-4a82-b3e3-284026cb46ea" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/717edaba-e0b6-494a-911e-37a6b78c0c01" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f3edfe88-7b9b-4c7a-b839-f173428a79a8" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b0fc8595-d785-4609-9e35-8b59a7592ffe" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2db8f6b5-9e52-4a5a-a703-e89ad1983a2c" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/07c8bf86-96d2-4246-b528-3ce93ae04498" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/03f6e5c7-d813-49fe-9e09-3de9afc37eb7" />
+
 
 Project Code: WST21-PM-2026-SF
 
