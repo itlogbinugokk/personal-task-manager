@@ -5,9 +5,13 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b0fc8595-d785-4609-9e35-8b59a7592ffe" />
 
 Project Code: WST21-PM-2026-SF
+
 Student Name: BALANSAG, ALBERT M.
+
 Course & Year: BSIT 2
+
 Database Used: migration
+
 Features:
 - Add Task
 - View Tasks
